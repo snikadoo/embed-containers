@@ -158,7 +158,7 @@ svg.img-flex {
 }
 
 .embed-4by3, .embed--4by3 {
-  padding-top: 75%; /* Traditional TV/computer screens */
+  padding-top: 0; /* Traditional TV/computer screens */
 }
 
 .embed-iso216, .embed--iso216 {
@@ -178,7 +178,7 @@ svg.img-flex {
 }
 
 .embed-16by9, .embed--16by9 {
-  padding-top: 56.25%; /* HD TV */
+  padding-top: 0; /* HD TV */
 }
 
 .embed-185by100, .embed--185by100 {
@@ -194,7 +194,7 @@ svg.img-flex {
 }
 
 .embed-4by1, .embed--4by1 {
-  padding-top: 25%; /* Polyvision */
+  padding-top: 0; /* Polyvision */
 }
 
 .embed-5by1, .embed--5by1 {
